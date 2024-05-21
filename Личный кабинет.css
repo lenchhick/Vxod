@@ -1,0 +1,42 @@
+body{
+    width: 1120px;
+    height: 1000px;
+    margin: auto;
+}
+
+.main2{
+    display: grid;
+    grid-template-columns: 400px 400px;
+}
+
+.ava2{
+    width: 300px;
+    height: 350px;
+}
+.ava2 img{
+    width: 300px;
+    height: 350px;
+}
+
+.about2{
+    display: flex;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.about2 img{
+    width: 40px;
+    height: 40px;
+    
+}
+
+h5{
+
+}
+.text2{
+    width: 200px;
+}
+
+input{
+    width: 500px;
+}

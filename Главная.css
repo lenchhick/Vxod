@@ -1,0 +1,15 @@
+body{
+    width: 1120px;
+    height: 1000px;
+    margin: auto;
+}
+
+.main{
+    display: flex;
+}
+
+.picture img{
+    width: 450px;
+    height: 600px;
+    padding: 40px;
+}
